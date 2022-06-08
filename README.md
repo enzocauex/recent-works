@@ -1,6 +1,6 @@
 # Código da Página - Trabalhos Recentes
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/71847081/172688942-17b18f61-a868-4f33-94e8-38b179ad11bc.png)
 
 ## 🚀 Tecnologias
 
@@ -20,7 +20,7 @@ Nesse projeto foram abordados os seguintes conceitos:
 - Animação com CSS com `@keyframes`
 - Conceitos de Mobile First
 - Breakpoints `@media`
-- Conceitos de `Grid`
+- Conceitos de Grid
 - Função `clamp`
 
 ## 🔖 Layout
